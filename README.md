@@ -2,7 +2,7 @@
 
 ## Клонирование проекта
 
-    git clone git@github.com:zdimon/delivery.git
+    git clone https://github.com/shpeeck/delivery.git
     cd delivery
 
 ## Деплой проекта
